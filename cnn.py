@@ -32,6 +32,8 @@ def predict():
     plt.imshow(imageArr[0])
     plt.show()
 
+
+#ㅎㅇ
 load_ml()
 predict()
 
